@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: fed5733ba12e40b4da726cffdb908ef3
+guid: 094993800105687449586a21b0730fad
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 345447727491899779
-    second: MAJO_0
+      213: 3962216569662771478
+    second: imgTemporaryArcane_0
   externalObjects: {}
   serializedVersion: 12
   mipmaps:
@@ -98,13 +98,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: MAJO_0
+      name: imgTemporaryArcane_0
       rect:
         serializedVersion: 2
-        x: 157
-        y: 86
-        width: 262
-        height: 261
+        x: 0
+        y: 0
+        width: 531
+        height: 511
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -112,8 +112,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 381ee9db0e64bc400800000000000000
-      internalID: 345447727491899779
+      spriteID: 6119ae53afe9cf630800000000000000
+      internalID: 3962216569662771478
       vertices: []
       indices: 
       edges: []
@@ -128,8 +128,7 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable:
-      MAJO_0: 345447727491899779
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
