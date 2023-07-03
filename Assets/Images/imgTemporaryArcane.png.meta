@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      imgTemporaryArcane_0: 3962216569662771478
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

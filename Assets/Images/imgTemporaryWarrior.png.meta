@@ -128,7 +128,8 @@ TextureImporter:
     edges: []
     weights: []
     secondaryTextures: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      imgTemporaryWarrior_0: 1359066365611640853
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
