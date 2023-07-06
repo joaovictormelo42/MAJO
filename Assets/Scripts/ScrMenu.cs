@@ -9,4 +9,9 @@ public class ScrMenu : MonoBehaviour
     {
         SceneManager.LoadScene(scene);
     }
+
+    public void Quit()
+    {
+        Application.Quit();
+    }
 }
